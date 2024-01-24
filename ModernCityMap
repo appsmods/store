@@ -31,11 +31,11 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/moderncity.mcaddon",
-      "image": "https://pics.craiyon.com/2023-10-03/bad572796dd243218bb9dc2d2f57caa2.webp",
-      "title": "Modern City",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+      "url": "https://files.catbox.moe/4lhivt.mcworld",
+      "path": "Download/modern-city.mcworld",
+      "image": "https://modscraft.net/uploads/posts/2023-07/1689744517_minecraft-modern-city-map-1.jpeg",
+      "title": "Map: Modern City",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!\n3. Works on versions:1.20,1.19"
     }
   ],
   "settings": {
