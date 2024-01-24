@@ -31,10 +31,26 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/tophouse.mcaddon",
-      "image": "https://pics.craiyon.com/2023-11-01/24b4d15be86548329f58bf1642f8b06e.webp",
-      "title": "Top House Mod",
+      "url": "https://files.catbox.moe/7muboz.mcpack",
+      "path": "Download/ModFurniture.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2023-05/1683140805_mr-cray-fish-furniture-3.jpg",
+      "title": "Mod: Furniture 1",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/f9tqns.mcpack",
+      "path": "Download/TextureFurniture.mcpack",
+      "image": "https://modscraft.net/uploads/posts/2023-05/1683140751_mr-cray-fish-furniture-2.jpg",
+      "title": "Texture: Furniture 2",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/4whc83.mcworld",
+      "path": "Download/MapFurniture.mcworld",
+      "image": "https://modscraft.net/uploads/posts/2023-05/1683140749_mr-cray-fish-furniture-1.jpg",
+      "title": "Map: Furniture 3",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
