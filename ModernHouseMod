@@ -31,10 +31,26 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/yw1vyf.mcaddon",
-      "path": "Download/modernhouse.mcaddon",
-      "image": "https://modscraft.net/uploads/posts/2021-10/1633815339_modernup-2.jpg",
-      "title": "Modern House",
+      "url": "https://files.catbox.moe/hh4oko.mcpack",
+      "path": "Download/ModModernFurniture.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2022-01/1641046579_modern-furniture-craft.jpg",
+      "title": "Mod: Modern Furniture",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+    {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/1xe4w3.mcpack",
+      "path": "Download/TextureModernFurniture.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2023-11/modern-furniture-6.png",
+      "title": "Texture: Modern Furniture",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
+    },
+   {
+      "app": "minecraft",
+      "url": "https://files.catbox.moe/nj1cgp.mcworld",
+      "path": "Download/MapModernFurniture.mcaddon",
+      "image": "https://modscraft.net/uploads/posts/2023-11/modern-furniture-7.png",
+      "title": "Map: Modern Furniture",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
